@@ -67,6 +67,7 @@ FormValidationApp/
 - Add show/hide password toggle
 - Add backend database integration
 - Add success animation after registration
+ 
 ##**Output Screenshots**
 
 <img width="1396" height="937" alt="Screenshot 2026-02-24 191832" src="https://github.com/user-attachments/assets/33fedab9-b07f-4bbc-969d-fb2787f4a205" />
